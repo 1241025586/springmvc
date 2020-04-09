@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="IntelliJ IDEA2018">
+    <ANNOTATIONS>
+      <root url="file://D:/IntelliJ IDEA2018" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://D:/IntelliJ IDEA2018" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/IntelliJ IDEA2018" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://D:/IntelliJ IDEA2018" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://D:/IntelliJ IDEA2018" />
+    </SOURCES>
+    <jarDirectory url="file://D:/IntelliJ IDEA2018" recursive="false" />
+    <jarDirectory url="file://D:/IntelliJ IDEA2018" recursive="false" type="SOURCES" />
+  </library>
+</component>

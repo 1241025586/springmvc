@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Tomcat">
+    <ANNOTATIONS>
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/Tomcat" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/Tomcat" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/rt/servlet.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/Tomcat" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/Tomcat" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/Tomcat" />
+    </SOURCES>
+    <jarDirectory url="file://$APPLICATION_HOME_DIR$/plugins/Tomcat" recursive="false" />
+    <jarDirectory url="file://$APPLICATION_HOME_DIR$/plugins/Tomcat" recursive="false" type="SOURCES" />
+  </library>
+</component>
